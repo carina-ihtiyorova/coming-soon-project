@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: 0%;}
+    
+
+.container{
+    background-image: url(https://wallup.net/wp-content/uploads/2018/09/26/635006-aerial_view-green-nature-trees-forest.jpg);
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    color: white;
+    font-size: 20px;
+    position: relative;
+  
+}
+.middle{
+    text-align: center;
+   position: absolute;
+   left: 40%;
+   right: 50%;
+   top: 50%;
+   width:300px;
+}
+.middle hr{
+   width: 300px;
+}
+.top-left{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
+.top-right{
+position: absolute;
+right: 0%;
+top: 0%;
+}
+.bottom-left{
+ position: absolute;
+ 
+ bottom: 0%;
+ left: 0%;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+
